@@ -13,12 +13,14 @@ Telegram-Bot is a Java-based Telegram bot created using Maven. This bot is desig
 
 1. Clone the repository:
 
-   bash
+  
+   ```bash
    git clone https://github.com/mazejack/Telegram-Bot.git
 
 2. Navigate to the project directory:
 
-   bash
+   
+   ```bash
    cd com/bot
 
 3. Build the project with Maven:
